@@ -32,6 +32,11 @@
 
 ---
 
+## ✨ Quote I Believe In:
+> "Consistency is more powerful than motivation."
+
+---
+
 ## 💻 Tech Stack:
 
 <p>

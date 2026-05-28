@@ -51,6 +51,6 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/omaide06/omaide06/blob/output/github-contribution-grid-snake.svg)
 ```markdown
 ![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)

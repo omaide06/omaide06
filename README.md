@@ -49,6 +49,7 @@
 
 ---
 
+
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/omaide06/omaide06/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/omaide06/omaide06/blob/output/github-contribution-grid-snake.svg)

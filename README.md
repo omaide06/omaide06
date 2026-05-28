@@ -57,4 +57,4 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/omaide06/omaide06/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/omaide06/omaide06/output/github-contribution-grid-snake.svg" />
